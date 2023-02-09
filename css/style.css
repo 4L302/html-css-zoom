@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-main: #000000;    
+    --bg-nav: rgb(53, 53, 53);
+    --light-text: white;
+    --red-text: red;
+    --btn-color: rgb(114, 114, 114);
+}
+
+.container{
+    height: 100vh;
+    width: 100%;
+    background-color: var(--bg-main);
+}
+
+.box
